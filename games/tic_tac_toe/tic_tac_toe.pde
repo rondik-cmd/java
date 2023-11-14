@@ -1,4 +1,4 @@
-int rows = 3;
+ int rows = 3;
 int cols = 3;
 int[][] board = new int[rows][cols];
 int currentPlayer = 1;
